@@ -33,9 +33,9 @@
 <p>This repository contains notebooks that guide you through the process of building a chatbot using Transformers. Please note that GitHub's preview may not display the entire content of the notebooks. To view the complete notebooks, you can follow the links below:</p>
 
 <ol>
-    <li><a href="https://nbviewer.org/github/GhaithMag/Transformers_Chatbot_Pytorch/blob/main/Part%201%20Data%20Preprocessing%20.ipynb" target="_blank">Data Preprocessing Notebook</a>: This notebook covers the data preprocessing steps necessary for training the chatbot. Once you've cloned the repository, you can access this notebook locally.</li>
-    <li><a href="https://nbviewer.org/github/GhaithMag/Transformers_Chatbot_Pytorch/blob/main/Part%202%20Model%20training.ipynb" target="_blank">Training Model Notebook</a>: Here, you'll find the details of the model training process. Once you've cloned the repository, you can access this notebook locally.</li>
-    <li><a href="https://nbviewer.org/github/GhaithMag/Transformers_Chatbot_Pytorch/blob/main/Tutorial_Transformers_chatbot.ipynb" target="_blank">Tutorial Notebook</a>: This comprehensive notebook combines all the steps and explanations for building the chatbot. Once you've cloned the repository, you can access this notebook locally where everything is displayed correctly.</li>
+    <li><a href="https://nbviewer.org/github/GhaithMag/Transformers_Chatbot_Pytorch/blob/main/Part%201%20Data%20Preprocessing%20.ipynb" target="_blank">Part 1 Data Preprocessing.ipynb</a>: This notebook covers the data preprocessing steps necessary for training the chatbot. Once you've cloned the repository, you can access this notebook locally.</li>
+    <li><a href="https://nbviewer.org/github/GhaithMag/Transformers_Chatbot_Pytorch/blob/main/Part%202%20Model%20training.ipynb" target="_blank">Part 2 Model training.ipynb</a>: Here, you'll find the details of the model training process. Once you've cloned the repository, you can access this notebook locally.</li>
+    <li><a href="https://nbviewer.org/github/GhaithMag/Transformers_Chatbot_Pytorch/blob/main/Tutorial_Transformers_chatbot.ipynb" target="_blank">Tutorial_Transformers_chatbot.ipynb</a>: This comprehensive notebook combines all the steps and explanations for building the chatbot. Once you've cloned the repository, you can access this notebook locally where everything is displayed correctly.</li>
 </ol>
 
 <h3>Objective</h3>
